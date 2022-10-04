@@ -6,3 +6,6 @@
 ```
 System.out.println("Hello Ladybugs!");
 ```
+- [ ] Look at code example
+- [X] Look at image of ladybugs
+- [X] Enjoy the image of ladybugs 
